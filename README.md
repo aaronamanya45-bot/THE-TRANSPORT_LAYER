@@ -125,9 +125,7 @@ The presentation explains how the Transport Layer enables true end-to-end commun
 | Group | Group 4 |
 | Date | September 2026 |
 
----
 
-## License
 
 This project is for **academic purposes** as part of CSC1101 coursework at Uganda Christian University.
 
